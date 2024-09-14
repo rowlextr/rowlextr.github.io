@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rowlextr.github.io/sitemap.html.gz
+Sitemap: https://rowlextr.github.io/app/sitemap.html.gz
+Sitemap: https://rowlextr.github.io/assets/sitemap.html.gz
+Sitemap: https://rowlextr.github.io/css/sitemap.html.gz
+Sitemap: https://rowlextr.github.io/includes/sitemap.html.gz
+Sitemap: https://rowlextr.github.io/item/sitemap.html.gz
+Sitemap: https://rowlextr.github.io/src/sitemap.html.gz
